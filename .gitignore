@@ -1,0 +1,10 @@
+__pycache__/
+
+*.jpg
+*.png
+*.log
+
+models/facenet/
+models/custom/
+
+*.json
