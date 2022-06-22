@@ -8,5 +8,5 @@ matplotlib
 Pillow
 requests
 psutil
-numpy==1.16.1
+numpy==1.22.0
 pyttsx3
